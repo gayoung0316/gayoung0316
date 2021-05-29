@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=gayoung0316%20GitHub&fontSize=70&animation=scaleIn)
 ![Gayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0316&show_icons=true)
 
 <!--
