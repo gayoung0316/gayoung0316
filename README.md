@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=8977AD&height=370&section=header&text=Gayoung's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=80)
 
-## Hello, My Hope World 👋 
+<div align='center'>
+	## Hello, My Hope World 👋 
 Welcome! Thanks for coming to my Github.
   
 <br/>
@@ -12,6 +13,7 @@ Welcome! Thanks for coming to my Github.
   
 #### ✨ My Stats ✨
 ![Gayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0316&show_icons=true)
+</div>
 
 <!--
 **gayoung0316/gayoung0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
