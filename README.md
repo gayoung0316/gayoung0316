@@ -20,6 +20,9 @@ Welcome! Thanks for coming to my Github.
 ![Gayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0316&show_icons=true)
 </div>
 
+<br>
+<br>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
